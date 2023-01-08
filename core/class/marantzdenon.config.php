@@ -37,6 +37,10 @@ class MarantzDenonConfig {
 				'Name' => 'Marantz M-CR611',
 				'Tooltip' => '',
 			),
+			'Marantz_Cinema_50' => array (
+				'Name' => 'Marantz Cinema 50',
+				'Tooltip' => '',
+			),
 			'Denon_CEOL' => array (
 				'Name' => 'Denon CEOL N5/8',
 				'Tooltip' => '',
@@ -126,6 +130,20 @@ class MarantzDenonConfig {
 				'CD' => 'CD',
 				'SERVER' => 'Media Server',
 				'REARUSB' => 'USB Arrière',
+			),
+			'Marantz_Cinema_50' => array(	// Marantz  Cinema 50
+				'SAT/CBL' => 'CBL/SAT',
+				'MPLAY' => 'Media Player',
+				'BD' => 'Blu-ray',
+				'GAME' => 'Game',
+				'AUX1' => 'AUX1',
+				'AUX2' => 'AUX2',
+				'TV' => 'TV Audio',
+				'CD' => 'CD',
+				'PHONO' => 'Phono',
+				'TUNER' => 'Tuner',
+				'NET' => 'Network',
+				'BT' => 'Bluetooth'
 			),
 			'Denon_CEOL' => array(	// Denon  CEOL N8/5
 				'IPOD' => 'iPod',
