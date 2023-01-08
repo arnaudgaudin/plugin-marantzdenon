@@ -481,7 +481,7 @@ class marantzdenon extends eqLogic {
 			$cmd->setConfiguration('marantzdenon_cmd', true);
 			$cmd->setType('action');
 			$cmd->setSubType('other');
-			$cmd->setEventOnly(1);
+			//$cmd->setEventOnly(1);
 			$cmd->setEqLogic_id($this->getId());
 			$cmd->save();
 		}
