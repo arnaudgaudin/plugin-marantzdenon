@@ -35,33 +35,33 @@ class MarantzDenonConfig {
 			),
 			'Marantz_M-CR611' => array (
 				'Name' => 'Marantz M-CR611',
-				'Tooltip' => '',
+				'Tooltip' => ''
 			),
 			'Marantz_Cinema_50' => array (
 				'Name' => 'Marantz Cinema 50',
-				'Tooltip' => '',
+				'Tooltip' => ''
 			),
 			'Denon_CEOL' => array (
 				'Name' => 'Denon CEOL N5/8',
 				'Tooltip' => '',
-				'MaxVolume' => 60,
+				'MaxVolume' => 60
 			),
 			'Denon_Tuner' => array (
 				'Name' => 'Denon AVR (tuner)',
-				'Tooltip' => '',
+				'Tooltip' => ''
 			), 
 			'Denon_Phono' => array (
 				'Name' => 'Denon AVR (sans tuner)',
-				'Tooltip' => '',
+				'Tooltip' => ''
 			), 
 			'BasicHomeCinema' => array (
 				'Name' => 'Generique Home Cinema',
-				'Tooltip' => '',
+				'Tooltip' => ''
 			), 
 			'BasicNotHomeCinema' => array (
 				'Name' => 'Generique Ampli (pas de HDMI)',
-				'Tooltip' => '',
-			), 
+				'Tooltip' => ''
+			)
 		);
 		
 
@@ -97,7 +97,7 @@ class MarantzDenonConfig {
 				'NETHOME' => 'Online Music',
 				'BT' => 'Bluetooth',
 				'IRP' => 'Internet Radio',
-				'CD' => 'CD',
+				'CD' => 'CD'
 			),
 			'BasicNotHomeCinema' => array(
 				'AUX1' => 'AUX',
@@ -109,7 +109,7 @@ class MarantzDenonConfig {
 				'NETHOME' => 'Online Music',
 				'BT' => 'Bluetooth',
 				'IRP' => 'Internet Radio',
-				'CD' => 'CD',
+				'CD' => 'CD'
 			),
 			'Marantz_M-CR511' => array(	// Marantz  M-CR611
 				'USB/IPOD' => 'iPod/USB',
@@ -118,7 +118,7 @@ class MarantzDenonConfig {
 				'SERVER' => 'Media Server',
 				'ANALOGIN' => 'Analogique',
 				'BLUETOOTH' => 'Bluetooth',
-				'IRADIO' => 'iRadio',
+				'IRADIO' => 'iRadio'
 			),
 			'Marantz_M-CR611' => array(	// Marantz  M-CR611
 				'USB/IPOD' => 'iPod/USB',
@@ -129,7 +129,7 @@ class MarantzDenonConfig {
 				'TUNER' => 'Tuner',
 				'CD' => 'CD',
 				'SERVER' => 'Media Server',
-				'REARUSB' => 'USB Arrière',
+				'REARUSB' => 'USB Arrière'
 			),
 			'Marantz_Cinema_50' => array(	// Marantz  Cinema 50
 				'SAT/CBL' => 'CBL/SAT',
@@ -157,7 +157,7 @@ class MarantzDenonConfig {
 				'SERVER' => 'Media Server',
 				'USB' => 'USB',
 				'FM' => 'Tuner',
-				'DAB' => 'DAB Tuner',
+				'DAB' => 'DAB Tuner'
 			),
 			'Denon_Tuner' => array(
 				'SAT/CBL' => 'CBL/SAT',
@@ -174,7 +174,7 @@ class MarantzDenonConfig {
 				'BT' => 'Bluetooth',
 				'IRP' => 'Internet Radio',
 				'CD' => 'CD',
-				'SERVER' => 'Media Server',
+				'SERVER' => 'Media Server'
 			),
 			'Denon_Phono' => array(
 				'SAT/CBL' => 'CBL/SAT',
@@ -190,8 +190,8 @@ class MarantzDenonConfig {
 				'BT' => 'Bluetooth',
 				'IRP' => 'Internet Radio',
 				'CD' => 'CD',
-				'PHONO' => 'Phono',
-			),
+				'PHONO' => 'Phono'
+			)
 		);
 		
 		
@@ -224,6 +224,6 @@ class MarantzDenonConfig {
 				'BT' => 'Bluetooth',
 				'IRP' => 'Internet Radio',
 				'CD' => 'CD',
-				'PHONO' => 'Phono',
+				'PHONO' => 'Phono'
 			);
 }
